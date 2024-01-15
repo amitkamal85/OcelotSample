@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oBe9dfYZ/xal3DeIMRT1qWU9usjf6g+i3BjFKO+fBLx33qW5nQsUKBwOCsLWL3di6zTFRkxhhqLmB/WvH+S5qw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Microservices\\OcelotTutorial-main\\OcelotTutorial-main\\OcelotTutorial\\VehicleAPI\\VehicleAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amit Chaudhary\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Amit Chaudhary\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Amit Chaudhary\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Amit Chaudhary\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Amit Chaudhary\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Amit Chaudhary\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
